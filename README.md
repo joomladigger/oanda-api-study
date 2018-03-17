@@ -1,1 +1,2 @@
 # oanda-api-study
+# MIT
