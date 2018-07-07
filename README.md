@@ -1,2 +1,1 @@
-# oanda-api-study
-# MIT
+# ML-RL4Fin
